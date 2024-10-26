@@ -1,5 +1,5 @@
 [package]
-name = "rusty-journal"
+name = "@mudtjn/rusty-journal"
 version = "0.1.1"
 edition = "2021"
 authors = ["Mudtjn"]
