@@ -15,4 +15,6 @@ cargo run -- add "<task>"
 cargo run -- done <y>
 ```
 
-You can do this in a custom file by adding -j or --journal-file tag and then the fileName.  
+You can do this in a custom file by adding -j or --journal-file tag and then the fileName. 
+
+Thank me later. 
