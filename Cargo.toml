@@ -1,8 +1,10 @@
 [package]
-name = "rusty-journal"
+name = "mudtjn-rusty-journal"
 version = "0.1.1"
 edition = "2021"
 authors = ["Mudtjn"]
+description = "This is my first package published while I am learning rust"
+license = "MIT"
 
 [dependencies]
 anyhow="1.0"
